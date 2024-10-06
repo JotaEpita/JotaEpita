@@ -3,8 +3,11 @@
 <!-- Professional summary --> 
 <h2 align="center">🌱 About Me</h2>
 - 🔭 I’m currently working with Python, JavaScript, Java, MySQL.
+
 - 🚀 Actively learning about mobile application optimization and design.
+  
 - 💡 I enjoy solving complex problems and turning ideas into efficient, scalable solutions.
+  
 - 📫 Feel free to reach me at joseacevedo.job@gmail.com.
 <!-- Stats & Achievements -->
 <h2 align="center">📊 GitHub Stats</h2> <p align="center"> <table align="center"> <tr border="none"> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=JotaEpita&theme=algolia&show_icons=true&count_private=true" /> <br></br> <img align="center" title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JotaEpita&theme=algolia&hide_border=false" /> </td> <td width="50%" align="center"> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JotaEpita&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/> </td> </tr> </table> </p>
