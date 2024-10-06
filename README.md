@@ -11,7 +11,7 @@
 <!--h1 without bottom border--> 
 <h2 align="center">🏆 Achievements & Trophies</h2> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source"> <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=JotaEpita&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" /> </a> </p>
 <!-- Technologies --> 
-<h2 align="center">💻 Technologies I Work With</h2> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,github,html,java,js,md,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts,vscode,&perline=14" /> </a> </p>
+<h2 align="center">💻 Technologies I Work With</h2> <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,cpp,css,discord,postgres,dynamodb,express,figma,github,html,java,js,md,mongodb,mysql,nextjs,nodejs,py,react,redux,tailwind,ts,vscode,&perline=14" /> </a> </p>
 <!-- Connect with me --> 
 <h2 align="center">🤝 Connect With Me</h2> <p align="center"> <a href="https://www.linkedin.com/in/jos%C3%A9-luis-acevedo-m%C3%A9ndez-94ba8a245/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" /></a> <a href="https://www.instagram.com/jotaefe_23/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" /></a> </p>
 <!--horizontal divider(gradiant)--> 
