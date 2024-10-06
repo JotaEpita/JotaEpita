@@ -2,6 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!--h1 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h1 style="display: inline-block">👋 Hello! I'm José Acevedo</h1></summary> </ul> </div> <!--h2 without bottom border--> <div id="user-content-toc"> <ul align="center"> <summary><h2 style="display: inline-block">Navigating the Complexity of Software Development with Passion and Dedication</h2></summary> </ul> </div> <!--Intro start--> <p align="center"> I am a versatile software developer with experience across various programming languages and technologies. I am always eager to learn and improve my skills, especially in optimizing and designing mobile applications. <br> <strong>Currently exploring:</strong> Python, JavaScript, Java, and MySQL. </p>
 <!-- Professional summary --> 
 <h2 align="center">🌱 About Me</h2>
+
 - 🔭 I’m currently working with Python, JavaScript, Java, MySQL.
 
 - 🚀 Actively learning about mobile application optimization and design.
