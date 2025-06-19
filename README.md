@@ -3,7 +3,7 @@
 <!-- Professional summary --> 
 <h2 align="center">🌱 About Me</h2>
 
-- 🔭 I’m currently working with Python, JavaScript, Java, MySQL.
+- 🔭 I’m currently working with C#, JavaScript, ASP.NET, MySQL.
 
 - 🚀 Actively learning about mobile application optimization and design.
   
